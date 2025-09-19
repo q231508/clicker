@@ -1,1 +1,1 @@
-## Clicker app with random number generator on second fragment
+## Counter app with random number generator on second fragment
